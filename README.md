@@ -1,5 +1,7 @@
 # WKUCourseKit
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YanYihann/wkucoursekit)
+
 WKUCourseKit is a Python-first FastAPI web application for Wenzhou-Kean / Kean students to organize mock Simple Syllabus-style course data, syllabi, required materials, and print-friendly course packets.
 
 This project can link students to the official Kean Simple Syllabus pages and can run a local browser-assisted sync after the student signs in. It does not store Kean passwords, proxy login, retrieve copyrighted textbooks, or implement Z-Library downloads. Textbook support is limited to metadata, ISBNs, student checklist status, and legal search links.
