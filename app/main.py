@@ -2,6 +2,7 @@ from contextlib import asynccontextmanager
 from pathlib import Path
 
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
 from app.database import init_db
@@ -29,4 +30,10 @@ app = FastAPI(
 )
 
 app.mount("/static", StaticFiles(directory=APP_DIR / "static"), name="static")
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["https://kean.simplesyllabus.com"],
+    allow_methods=["POST", "OPTIONS"],
+    allow_headers=["content-type"],
+)
 app.include_router(pages_router)

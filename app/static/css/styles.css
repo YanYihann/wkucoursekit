@@ -436,6 +436,19 @@ h3 {
   gap: 8px;
 }
 
+.cloud-sync-box {
+  display: grid;
+  gap: 10px;
+  padding: 14px;
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-md);
+  background: var(--canvas);
+}
+
+.cloud-sync-box p {
+  margin: 0;
+}
+
 .auth-feedback {
   padding: 10px 12px;
   border-radius: var(--radius-md);

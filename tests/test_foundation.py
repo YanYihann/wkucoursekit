@@ -247,6 +247,48 @@ def test_auth_refresh_on_render_redirects_to_kean_login(monkeypatch) -> None:
     assert response.headers["location"] == "https://kean.simplesyllabus.com/en-US/syllabus-library/my-courses"
 
 
+def test_render_courses_page_shows_cloud_sync_bookmarklet(monkeypatch) -> None:
+    monkeypatch.setenv("RENDER", "true")
+
+    with TestClient(app) as client:
+        response = client.get("/courses")
+
+    assert response.status_code == 200
+    assert "Cloud sync" in response.text
+    assert "javascript:(async()" in response.text
+    assert "/api/simple-syllabus/import-responses" in response.text
+
+
+def test_browser_submitted_simple_syllabus_json_imports_courses() -> None:
+    payload = {
+        "responses": [
+            {
+                "url": "https://kean.simplesyllabus.com/api/doc-library-search?my_courses=true",
+                "payload": {
+                    "results": [
+                        {
+                            "courseCode": "CPS 4500",
+                            "section": "W01",
+                            "courseTitle": "CPS 4500 - Cloud Imported Course",
+                            "term": "Spring 2026",
+                            "instructor": {"name": "Cloud Instructor"},
+                            "description": "Imported from the browser on Kean.",
+                        }
+                    ]
+                },
+            }
+        ]
+    }
+
+    with TestClient(app) as client:
+        response = client.post("/api/simple-syllabus/import-responses", json=payload)
+        courses_response = client.get("/courses?q=Cloud")
+
+    assert response.status_code == 200
+    assert response.json()["course_count"] == 1
+    assert "Cloud Imported Course" in courses_response.text
+
+
 def test_simple_syllabus_page_is_removed() -> None:
     with TestClient(app) as client:
         response = client.get("/simple-syllabus", follow_redirects=False)

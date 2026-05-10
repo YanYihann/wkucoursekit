@@ -1,7 +1,8 @@
 import threading
 from datetime import date, timedelta
+import json
 from os import environ
-from urllib.parse import urlencode
+from urllib.parse import quote, urlencode
 
 from fastapi import APIRouter, Form, Query, Request
 from fastapi.responses import HTMLResponse, JSONResponse, RedirectResponse
@@ -60,8 +61,11 @@ from app.services.simple_syllabus_scraper import (
     sync_from_logged_in_browser,
     sync_library_page_from_saved_session,
     sync_material_counts_from_saved_session,
+    write_library_search_meta_from_responses,
     write_simple_syllabus_auth_status,
+    normalize_scraped_responses,
 )
+from app.services.importer import load_syllabus_payload
 from app.services.syllabus_view import (
     assessment_rows,
     course_catalog_description,
@@ -117,6 +121,7 @@ def auth_snapshot() -> dict[str, object]:
     snapshot = current_simple_syllabus_auth_snapshot()
     running = auth_sync_thread is not None and auth_sync_thread.is_alive()
     snapshot["running"] = running
+    snapshot["cloud_sync"] = bool(environ.get("VERCEL") or environ.get("RENDER"))
     if running:
         snapshot["signed_in"] = False
     return snapshot
@@ -177,6 +182,39 @@ def material_counts(ids: str = Query(default="")) -> JSONResponse:
         counts = sync_material_counts_from_saved_session(db, course_ids)
         db.commit()
     return JSONResponse({"counts": counts})
+
+
+@router.post("/api/simple-syllabus/import-responses")
+async def import_simple_syllabus_responses(request: Request) -> JSONResponse:
+    try:
+        raw_body = await request.body()
+        payload = json.loads(raw_body.decode("utf-8"))
+    except (UnicodeDecodeError, json.JSONDecodeError) as exc:
+        raise SimpleSyllabusImportError("Uploaded Simple Syllabus browser data is not valid JSON.") from exc
+
+    responses = payload.get("responses") if isinstance(payload, dict) else None
+    if not isinstance(responses, list):
+        raise SimpleSyllabusImportError("Simple Syllabus browser data must include a responses array.")
+    normalized_responses = [
+        {"url": str(item.get("url", "")), "payload": item.get("payload")}
+        for item in responses
+        if isinstance(item, dict) and isinstance(item.get("payload"), dict)
+    ]
+    if not normalized_responses:
+        raise SimpleSyllabusImportError("No usable Simple Syllabus JSON responses were submitted.")
+
+    with SessionLocal() as db:
+        write_library_search_meta_from_responses(normalized_responses)
+        syllabus_payload = normalize_scraped_responses(normalized_responses)
+        counts = load_syllabus_payload(db, syllabus_payload, reset=True)
+    course_count = sum(len(term.get("courses", [])) for term in syllabus_payload.get("terms", []))
+    write_simple_syllabus_auth_status(
+        "success",
+        "Imported browser-submitted Simple Syllabus data.",
+        response_count=len(normalized_responses),
+        course_count=course_count,
+    )
+    return JSONResponse({"status": "success", "counts": counts, "response_count": len(normalized_responses), "course_count": course_count})
 
 
 @router.post("/auth/refresh")
@@ -660,6 +698,11 @@ def render(
     def switch(language_code: str) -> str:
         return language_url(request, language_code)
 
+    def cloud_sync_bookmarklet() -> str:
+        target_url = str(request.url_for("import_simple_syllabus_responses"))
+        script = f"""javascript:(async()=>{{const postUrl={json.dumps(target_url)};const sleep=(ms)=>new Promise(r=>setTimeout(r,ms));const seen=new Set();const responses=[];const add=async(url)=>{{try{{const res=await fetch(url,{{credentials:'include'}});if(!res.ok)return;const payload=await res.json();if(seen.has(url))return;seen.add(url);responses.push({{url:new URL(url,location.origin).href,payload}});return payload;}}catch(e){{}}}};const walk=(value,out=[])=>{{if(!value||typeof value!=='object')return out;if(Array.isArray(value)){{value.forEach(v=>walk(v,out));return out;}}const code=value.doc_code||value.docCode||value.document_code||value.documentCode;if(typeof code==='string'&&code.length>4)out.push(code);Object.values(value).forEach(v=>walk(v,out));return out;}};await add('/api/session');const listPayloads=[];for(const url of ['/api/doc-library-search?my_courses=true','/api2/doc-library-search?my_courses=true','/api2/doc-library-search?page=0&page_size=50']){{const payload=await add(url);if(payload)listPayloads.push(payload);await sleep(250);}}const codes=[...new Set(listPayloads.flatMap(payload=>walk(payload)))].slice(0,30);for(const code of codes){{await add('/api2/doc?code='+encodeURIComponent(code));await sleep(150);}}if(!responses.length){{alert('No Simple Syllabus JSON found. Make sure you are signed in on kean.simplesyllabus.com.');return;}}const imported=await fetch(postUrl,{{method:'POST',headers:{{'content-type':'text/plain'}},body:JSON.stringify({{responses}})}});const result=await imported.json().catch(()=>({{}}));if(!imported.ok){{alert('WKUCourseKit import failed.');return;}}alert('WKUCourseKit imported '+(result.course_count||0)+' courses. Return to WKUCourseKit and refresh.');}})()"""
+        return script
+
     current_path = request.url.path
     if request.url.query:
         current_path = f"{current_path}?{request.url.query}"
@@ -705,6 +748,7 @@ def render(
             "sync_status": request.query_params.get("sync", ""),
             "auth": auth_snapshot(),
             "official_links": official_links(),
+            "cloud_sync_bookmarklet": cloud_sync_bookmarklet,
             **context,
         },
     )

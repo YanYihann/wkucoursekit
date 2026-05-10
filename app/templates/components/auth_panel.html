@@ -45,5 +45,12 @@
       <a class="button-secondary" href="{{ official_links.my_courses }}" target="_blank" rel="noopener noreferrer">{{ t("actions.open_kean_my_courses") }}</a>
       <a class="button-secondary" href="{{ official_links.library }}" target="_blank" rel="noopener noreferrer">{{ t("actions.open_kean_library") }}</a>
     </div>
+    {% if auth.cloud_sync %}
+      <div class="cloud-sync-box">
+        <p class="eyebrow">{{ "Cloud sync" if lang == "en" else "云端同步" }}</p>
+        <p>{{ "Drag this button to your bookmarks bar. Then open Kean Simple Syllabus, sign in, and click the bookmark to import your authorized data back into WKUCourseKit." if lang == "en" else "把这个按钮拖到书签栏。然后打开 Kean Simple Syllabus 并登录，点击该书签即可把已授权数据导入 WKUCourseKit。" }}</p>
+        <a class="button-secondary source-button" href="{{ cloud_sync_bookmarklet() }}">{{ "Sync to WKUCourseKit" if lang == "en" else "同步到 WKUCourseKit" }}</a>
+      </div>
+    {% endif %}
   </div>
 </section>
