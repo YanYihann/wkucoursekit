@@ -1,0 +1,1035 @@
+{
+  "Sections": [
+    {
+      "Id": "26595",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W08",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W08\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26590",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W03",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W03\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26592",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W05",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W05\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26594",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W07",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W07\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26607",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W20",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W20\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26597",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W10",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 2:30 PM - 3:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W10\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26600",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W13",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 4:00 PM - 5:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W13\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26605",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W18",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W18\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26608",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W21",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 7:00 PM - 8:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W21\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26611",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W24",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 7:00 PM - 8:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W24\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26603",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W16",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 4:00 PM - 5:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W16\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26596",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W09",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 2:30 PM - 3:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Architecture and Economics students first",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W09\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26610",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W23",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 7:00 PM - 8:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W23\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26604",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W17",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Architecture and Economics students first",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W17\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26588",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W01",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W01\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26606",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W19",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W19\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26601",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W14",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 4:00 PM - 5:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W14\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26609",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W22",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 7:00 PM - 8:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W22\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26593",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W06",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W06\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26591",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W04",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W04\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26599",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W12",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 2:30 PM - 3:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W12\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26598",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W11",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 2:30 PM - 3:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W11\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26589",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W02",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W02\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26602",
+      "CourseId": "6228",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1032",
+        "Title": "Microcomputer Applications"
+      },
+      "Number": "W15",
+      "Title": "Microcomputer Applications",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 4:00 PM - 5:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1032\" sect=\"W15\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "A study of computer literacy concepts, and computer organization of data in files and databases for information generation. Emphasis is on the proper use of microcomputer application packages to fulfill the information needs of organizations, and support professional problem solutions. Students will be introduced to a variety of microcomputer application packages."
+    },
+    {
+      "Id": "26624",
+      "CourseId": "6229",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1231",
+        "Title": "Fund. of Computer Science"
+      },
+      "Number": "W13",
+      "Title": "Fund. of Computer Science",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 5:30 PM - 7:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1231\" sect=\"W13\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "Fundamental computing concepts, components and processes; hardware and software components; communications and information systems; systems and applications software; introduction to programming concepts and techniques; computational problem-solving and designing algorithms using a high-level programming language."
+    },
+    {
+      "Id": "26628",
+      "CourseId": "6229",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1231",
+        "Title": "Fund. of Computer Science"
+      },
+      "Number": "W17",
+      "Title": "Fund. of Computer Science",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 2:00 PM - 3:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "25 / 25 / 0",
+      "Available": 25,
+      "Capacity": 25,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. For Math Major only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1231\" sect=\"W17\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "Fundamental computing concepts, components and processes; hardware and software components; communications and information systems; systems and applications software; introduction to programming concepts and techniques; computational problem-solving and designing algorithms using a high-level programming language."
+    },
+    {
+      "Id": "26620",
+      "CourseId": "6229",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1231",
+        "Title": "Fund. of Computer Science"
+      },
+      "Number": "W09",
+      "Title": "Fund. of Computer Science",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 12:30 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1231\" sect=\"W09\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "Fundamental computing concepts, components and processes; hardware and software components; communications and information systems; systems and applications software; introduction to programming concepts and techniques; computational problem-solving and designing algorithms using a high-level programming language."
+    },
+    {
+      "Id": "26627",
+      "CourseId": "6229",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1231",
+        "Title": "Fund. of Computer Science"
+      },
+      "Number": "W16",
+      "Title": "Fund. of Computer Science",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 2:00 PM - 3:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. For Math Major only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1231\" sect=\"W16\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "Fundamental computing concepts, components and processes; hardware and software components; communications and information systems; systems and applications software; introduction to programming concepts and techniques; computational problem-solving and designing algorithms using a high-level programming language."
+    },
+    {
+      "Id": "26621",
+      "CourseId": "6229",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1231",
+        "Title": "Fund. of Computer Science"
+      },
+      "Number": "W10",
+      "Title": "Fund. of Computer Science",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 11:30 AM - 1:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1231\" sect=\"W10\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "Fundamental computing concepts, components and processes; hardware and software components; communications and information systems; systems and applications software; introduction to programming concepts and techniques; computational problem-solving and designing algorithms using a high-level programming language."
+    },
+    {
+      "Id": "26619",
+      "CourseId": "6229",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "1231",
+        "Title": "Fund. of Computer Science"
+      },
+      "Number": "W08",
+      "Title": "Fund. of Computer Science",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 8:30 AM - 10:15 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. Open for Freshman. Petition Required.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"1231\" sect=\"W08\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "Fundamental computing concepts, components and processes; hardware and software components; communications and information systems; systems and applications software; introduction to programming concepts and techniques; computational problem-solving and designing algorithms using a high-level programming language."
+    }
+  ],
+  "TotalItems": 113,
+  "TotalPages": 4,
+  "CurrentPageIndex": 1,
+  "PageSize": 30,
+  "Subjects": [
+    {
+      "Value": "CPS",
+      "Description": "Computer Science",
+      "Count": 113
+    }
+  ],
+  "Faculty": [
+    {
+      "Value": "1160565",
+      "Description": "Baha Ihnaini",
+      "Count": 1
+    },
+    {
+      "Value": "1193380",
+      "Description": "Belal S. Abuhaija",
+      "Count": 2
+    },
+    {
+      "Value": "1335563",
+      "Description": "Changjiang Zhang",
+      "Count": 2
+    },
+    {
+      "Value": "1299980",
+      "Description": "Hamza Djigal",
+      "Count": 1
+    },
+    {
+      "Value": "1136497",
+      "Description": "Hemn B. Abdalla",
+      "Count": 2
+    },
+    {
+      "Value": "1233049",
+      "Description": "Man Kwun Chiu",
+      "Count": 2
+    },
+    {
+      "Value": "1233051",
+      "Description": "Maryam Cheraghy",
+      "Count": 3
+    },
+    {
+      "Value": "1173242",
+      "Description": "Nasser M. Mustafa",
+      "Count": 3
+    },
+    {
+      "Value": "1136499",
+      "Description": "Omar K. Dib",
+      "Count": 3
+    },
+    {
+      "Value": "1233050",
+      "Description": "Rashid Sangi",
+      "Count": 3
+    },
+    {
+      "Value": "1365583",
+      "Description": "Shubin Zhang",
+      "Count": 1
+    },
+    {
+      "Value": "1097370",
+      "Description": "Sujatha Krishnamoorthy",
+      "Count": 3
+    },
+    {
+      "Value": "1592831",
+      "Description": "Yige Chen",
+      "Count": 1
+    },
+    {
+      "Value": "1322910",
+      "Description": "Yue Zhao",
+      "Count": 2
+    },
+    {
+      "Value": "1368136",
+      "Description": "Zhenzhou Tang",
+      "Count": 1
+    },
+    {
+      "Value": "1335561",
+      "Description": "Zhiqiang Gao",
+      "Count": 2
+    }
+  ],
+  "Locations": [
+    {
+      "Value": "W",
+      "Description": "WENZHOU-KEAN UNIVERSITY",
+      "Count": 113
+    }
+  ],
+  "_fetched_at": "2026-05-10T03:50:19.999478+00:00"
+}

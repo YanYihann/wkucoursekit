@@ -1,0 +1,63 @@
+{
+  "Sections": [
+    {
+      "Id": "26742",
+      "CourseId": "6317",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "5801",
+        "Title": "Adv Artfcl Intell"
+      },
+      "Number": "W02",
+      "Title": "Adv Artfcl Intell",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Baha Ihnaini"
+      ],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 7:00 PM - 8:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "30 / 30 / 0",
+      "Available": 30,
+      "Capacity": 30,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"5801\" sect=\"W02\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course introduces the five fundamental topics of AI, 1) problem-solving, 2) reasoning and planning, 3) dealing with uncertainty, 4) learning, and 5) communication with perceiving and acting. The focus will be on the first three with an example of autonomous systems for the 5th one."
+    }
+  ],
+  "TotalItems": 1,
+  "TotalPages": 1,
+  "CurrentPageIndex": 1,
+  "PageSize": 30,
+  "Subjects": [
+    {
+      "Value": "CPS",
+      "Description": "Computer Science",
+      "Count": 1
+    }
+  ],
+  "Faculty": [
+    {
+      "Value": "1160565",
+      "Description": "Baha Ihnaini",
+      "Count": 1
+    }
+  ],
+  "Locations": [
+    {
+      "Value": "W",
+      "Description": "WENZHOU-KEAN UNIVERSITY",
+      "Count": 1
+    }
+  ],
+  "_fetched_at": "2026-05-10T09:31:21.591811+00:00"
+}

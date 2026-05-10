@@ -1,0 +1,396 @@
+{
+  "Sections": [
+    {
+      "Id": "26631",
+      "CourseId": "6235",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "2232",
+        "Title": "Data Structures"
+      },
+      "Number": "W01",
+      "Title": "Data Structures",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 10:00 AM - 11:45 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. For Computer Science Majors Only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"2232\" sect=\"W01\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "The course covers the theory of Abstract Data Types (ADTs), applications and implementations of the classical ADTs including lists, sets, stacks, queues, trees, and graphs, recursion and dynamic programming, and elementary algorithm analysis."
+    },
+    {
+      "Id": "26632",
+      "CourseId": "6235",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "2232",
+        "Title": "Data Structures"
+      },
+      "Number": "W02",
+      "Title": "Data Structures",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 10:00 AM - 11:45 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. For Computer Science Majors Only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"2232\" sect=\"W02\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "The course covers the theory of Abstract Data Types (ADTs), applications and implementations of the classical ADTs including lists, sets, stacks, queues, trees, and graphs, recursion and dynamic programming, and elementary algorithm analysis."
+    },
+    {
+      "Id": "26633",
+      "CourseId": "6235",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "2232",
+        "Title": "Data Structures"
+      },
+      "Number": "W03",
+      "Title": "Data Structures",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 1:00 PM - 2:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. For Computer Science Majors Only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"2232\" sect=\"W03\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "The course covers the theory of Abstract Data Types (ADTs), applications and implementations of the classical ADTs including lists, sets, stacks, queues, trees, and graphs, recursion and dynamic programming, and elementary algorithm analysis."
+    },
+    {
+      "Id": "26634",
+      "CourseId": "6235",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "2232",
+        "Title": "Data Structures"
+      },
+      "Number": "W04",
+      "Title": "Data Structures",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 1:00 PM - 2:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. For Computer Science Majors Only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"2232\" sect=\"W04\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "The course covers the theory of Abstract Data Types (ADTs), applications and implementations of the classical ADTs including lists, sets, stacks, queues, trees, and graphs, recursion and dynamic programming, and elementary algorithm analysis."
+    },
+    {
+      "Id": "26635",
+      "CourseId": "6235",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "2232",
+        "Title": "Data Structures"
+      },
+      "Number": "W05",
+      "Title": "Data Structures",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 10:00 AM - 11:45 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. For Computer Science Majors Only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"2232\" sect=\"W05\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "The course covers the theory of Abstract Data Types (ADTs), applications and implementations of the classical ADTs including lists, sets, stacks, queues, trees, and graphs, recursion and dynamic programming, and elementary algorithm analysis."
+    },
+    {
+      "Id": "26636",
+      "CourseId": "6235",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "2232",
+        "Title": "Data Structures"
+      },
+      "Number": "W06",
+      "Title": "Data Structures",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 10:00 AM - 11:45 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. For Computer Science Majors Only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"2232\" sect=\"W06\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "The course covers the theory of Abstract Data Types (ADTs), applications and implementations of the classical ADTs including lists, sets, stacks, queues, trees, and graphs, recursion and dynamic programming, and elementary algorithm analysis."
+    },
+    {
+      "Id": "26637",
+      "CourseId": "6235",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "2232",
+        "Title": "Data Structures"
+      },
+      "Number": "W07",
+      "Title": "Data Structures",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 1:00 PM - 2:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. For Computer Science Majors Only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"2232\" sect=\"W07\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "The course covers the theory of Abstract Data Types (ADTs), applications and implementations of the classical ADTs including lists, sets, stacks, queues, trees, and graphs, recursion and dynamic programming, and elementary algorithm analysis."
+    },
+    {
+      "Id": "26638",
+      "CourseId": "6235",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "2232",
+        "Title": "Data Structures"
+      },
+      "Number": "W08",
+      "Title": "Data Structures",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 1:00 PM - 2:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. For Computer Science Majors Only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"2232\" sect=\"W08\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "The course covers the theory of Abstract Data Types (ADTs), applications and implementations of the classical ADTs including lists, sets, stacks, queues, trees, and graphs, recursion and dynamic programming, and elementary algorithm analysis."
+    },
+    {
+      "Id": "26639",
+      "CourseId": "6235",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "2232",
+        "Title": "Data Structures"
+      },
+      "Number": "W09",
+      "Title": "Data Structures",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 4:00 PM - 5:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. For Computer Science Majors Only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"2232\" sect=\"W09\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "The course covers the theory of Abstract Data Types (ADTs), applications and implementations of the classical ADTs including lists, sets, stacks, queues, trees, and graphs, recursion and dynamic programming, and elementary algorithm analysis."
+    },
+    {
+      "Id": "26640",
+      "CourseId": "6235",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "2232",
+        "Title": "Data Structures"
+      },
+      "Number": "W10",
+      "Title": "Data Structures",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 4:00 PM - 5:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. For Computer Science Majors Only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"2232\" sect=\"W10\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "The course covers the theory of Abstract Data Types (ADTs), applications and implementations of the classical ADTs including lists, sets, stacks, queues, trees, and graphs, recursion and dynamic programming, and elementary algorithm analysis."
+    },
+    {
+      "Id": "26641",
+      "CourseId": "6235",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "2232",
+        "Title": "Data Structures"
+      },
+      "Number": "W11",
+      "Title": "Data Structures",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 10:00 AM - 11:45 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. For Computer Science Majors Only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"2232\" sect=\"W11\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "The course covers the theory of Abstract Data Types (ADTs), applications and implementations of the classical ADTs including lists, sets, stacks, queues, trees, and graphs, recursion and dynamic programming, and elementary algorithm analysis."
+    },
+    {
+      "Id": "26642",
+      "CourseId": "6235",
+      "Course": {
+        "SubjectCode": "CPS",
+        "Number": "2232",
+        "Title": "Data Structures"
+      },
+      "Number": "W12",
+      "Title": "Data Structures",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "4 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 10:00 AM - 11:45 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "24 / 24 / 0",
+      "Available": 24,
+      "Capacity": 24,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU KEAN STUDENTS ONLY. For Computer Science Majors Only",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"CPS\" num=\"2232\" sect=\"W12\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "The course covers the theory of Abstract Data Types (ADTs), applications and implementations of the classical ADTs including lists, sets, stacks, queues, trees, and graphs, recursion and dynamic programming, and elementary algorithm analysis."
+    }
+  ],
+  "TotalItems": 12,
+  "TotalPages": 1,
+  "CurrentPageIndex": 1,
+  "PageSize": 30,
+  "Subjects": [
+    {
+      "Value": "CPS",
+      "Description": "Computer Science",
+      "Count": 12
+    }
+  ],
+  "Faculty": [],
+  "Locations": [
+    {
+      "Value": "W",
+      "Description": "WENZHOU-KEAN UNIVERSITY",
+      "Count": 12
+    }
+  ],
+  "_fetched_at": "2026-05-10T02:49:06.090923+00:00"
+}

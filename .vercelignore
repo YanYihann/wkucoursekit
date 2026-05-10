@@ -1,0 +1,13 @@
+.env
+.uvicorn.pid
+wkcoursekit.db
+*.sqlite
+*.sqlite3
+simple_syllabus_auth_status.json
+simple_syllabus_sync.log
+.simple_syllabus_*.json
+.wkcoursekit-*-browser*/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+tmp_*.png

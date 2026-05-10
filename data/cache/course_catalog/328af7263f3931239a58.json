@@ -1,0 +1,2359 @@
+{
+  "Sections": [
+    {
+      "Id": "25081",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W01",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Yifei Xia"
+      ],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 8:30 AM - 9:45 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W01\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25087",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W07",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Jiaying Ge"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 5:30 PM - 6:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W07\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25093",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W13",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 4:00 PM - 5:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W13\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25091",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W11",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 5:30 PM - 6:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W11\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25092",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W12",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W12\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25083",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W03",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Yifei Xia"
+      ],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W03\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25082",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W02",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Yifei Xia"
+      ],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 10:00 AM - 11:15 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W02\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25090",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W10",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Yuhang Zhu"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W10\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25085",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W05",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Jingjing Xia"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 10:00 AM - 11:15 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W05\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25084",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W04",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Jingjing Xia"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 8:30 AM - 9:45 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W04\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25086",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W06",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Jingjing Xia"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W06\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25089",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W09",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Jiaying Ge"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W09\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25094",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W14",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 5:30 PM - 6:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W14\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25088",
+      "CourseId": "6816",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "2200",
+        "Title": "Principles of Accounting I"
+      },
+      "Number": "W08",
+      "Title": "Principles of Accounting I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Jiaying Ge"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 10:00 AM - 11:15 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "40 / 40 / 0",
+      "Available": 40,
+      "Capacity": 40,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. Business sophomores ONLY.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"2200\" sect=\"W08\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course is an introduction to accounting concepts and principles used in the preparation of financial reports for proprietorships, partnerships, and corporations. The generally accepted accounting principles (GAAP) that are used in this process will be explained and incorporated into all of the instruction. It involves the application of the techniques of using debits and credits, the preparation and analysis of the trial balances (both unadjusted and adjusted), making adjusting entries and assessing the effectiveness of the internal control system of an entity. The student will continuously be exposed to the preparation and analysis of the basic financial statements showing students how to evaluate an entity's performance, and how outside parties use financial statements to make various decisions on those statements."
+    },
+    {
+      "Id": "25096",
+      "CourseId": "6821",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3210",
+        "Title": "Intermediate Acct I"
+      },
+      "Number": "W02",
+      "Title": "Intermediate Acct I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Chunxiao Xue"
+      ],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 10:00 AM - 11:15 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3210\" sect=\"W02\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course involves the role of accounting as an information system and introduced the balance sheet accounts as economic resources. The course analyzes various balance sheet and income statement accounts and includes preparation of financial statements for internal as well as external reporting."
+    },
+    {
+      "Id": "25098",
+      "CourseId": "6821",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3210",
+        "Title": "Intermediate Acct I"
+      },
+      "Number": "W05",
+      "Title": "Intermediate Acct I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Senran Zhou"
+      ],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 10:00 AM - 11:15 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3210\" sect=\"W05\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course involves the role of accounting as an information system and introduced the balance sheet accounts as economic resources. The course analyzes various balance sheet and income statement accounts and includes preparation of financial statements for internal as well as external reporting."
+    },
+    {
+      "Id": "25100",
+      "CourseId": "6821",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3210",
+        "Title": "Intermediate Acct I"
+      },
+      "Number": "W07",
+      "Title": "Intermediate Acct I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Long Niu"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 11:30 AM - 12:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3210\" sect=\"W07\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course involves the role of accounting as an information system and introduced the balance sheet accounts as economic resources. The course analyzes various balance sheet and income statement accounts and includes preparation of financial statements for internal as well as external reporting."
+    },
+    {
+      "Id": "25097",
+      "CourseId": "6821",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3210",
+        "Title": "Intermediate Acct I"
+      },
+      "Number": "W03",
+      "Title": "Intermediate Acct I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Chunxiao Xue"
+      ],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 2:30 PM - 3:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3210\" sect=\"W03\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course involves the role of accounting as an information system and introduced the balance sheet accounts as economic resources. The course analyzes various balance sheet and income statement accounts and includes preparation of financial statements for internal as well as external reporting."
+    },
+    {
+      "Id": "25102",
+      "CourseId": "6821",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3210",
+        "Title": "Intermediate Acct I"
+      },
+      "Number": "W09",
+      "Title": "Intermediate Acct I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Long Niu"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 5:30 PM - 6:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3210\" sect=\"W09\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course involves the role of accounting as an information system and introduced the balance sheet accounts as economic resources. The course analyzes various balance sheet and income statement accounts and includes preparation of financial statements for internal as well as external reporting."
+    },
+    {
+      "Id": "25095",
+      "CourseId": "6821",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3210",
+        "Title": "Intermediate Acct I"
+      },
+      "Number": "W01",
+      "Title": "Intermediate Acct I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Chunxiao Xue"
+      ],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 4:00 PM - 5:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3210\" sect=\"W01\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course involves the role of accounting as an information system and introduced the balance sheet accounts as economic resources. The course analyzes various balance sheet and income statement accounts and includes preparation of financial statements for internal as well as external reporting."
+    },
+    {
+      "Id": "25099",
+      "CourseId": "6821",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3210",
+        "Title": "Intermediate Acct I"
+      },
+      "Number": "W06",
+      "Title": "Intermediate Acct I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Senran Zhou"
+      ],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 11:30 AM - 12:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3210\" sect=\"W06\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course involves the role of accounting as an information system and introduced the balance sheet accounts as economic resources. The course analyzes various balance sheet and income statement accounts and includes preparation of financial statements for internal as well as external reporting."
+    },
+    {
+      "Id": "25101",
+      "CourseId": "6821",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3210",
+        "Title": "Intermediate Acct I"
+      },
+      "Number": "W08",
+      "Title": "Intermediate Acct I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Long Niu"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3210\" sect=\"W08\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course involves the role of accounting as an information system and introduced the balance sheet accounts as economic resources. The course analyzes various balance sheet and income statement accounts and includes preparation of financial statements for internal as well as external reporting."
+    },
+    {
+      "Id": "25107",
+      "CourseId": "6823",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3230",
+        "Title": "Federal Income Taxes I"
+      },
+      "Number": "W05",
+      "Title": "Federal Income Taxes I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 1:00 PM - 2:15 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3230\" sect=\"W05\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course will cover: computing federal income taxes and determining and utilizing allowable credits, computing the overall tax result for a sole proprietorship business, determining the Alternative Minimum Tax for individuals, discussing and computing the various tax options related to property (including the computation of the adjusted cost bases and resulting gains and losses at the time of sale or other disposition), and special rules related to home ownership."
+    },
+    {
+      "Id": "25103",
+      "CourseId": "6823",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3230",
+        "Title": "Federal Income Taxes I"
+      },
+      "Number": "W01",
+      "Title": "Federal Income Taxes I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Senran Zhou"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 8:30 AM - 9:45 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3230\" sect=\"W01\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course will cover: computing federal income taxes and determining and utilizing allowable credits, computing the overall tax result for a sole proprietorship business, determining the Alternative Minimum Tax for individuals, discussing and computing the various tax options related to property (including the computation of the adjusted cost bases and resulting gains and losses at the time of sale or other disposition), and special rules related to home ownership."
+    },
+    {
+      "Id": "25105",
+      "CourseId": "6823",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3230",
+        "Title": "Federal Income Taxes I"
+      },
+      "Number": "W03",
+      "Title": "Federal Income Taxes I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Senran Zhou"
+      ],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 2:30 PM - 3:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3230\" sect=\"W03\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course will cover: computing federal income taxes and determining and utilizing allowable credits, computing the overall tax result for a sole proprietorship business, determining the Alternative Minimum Tax for individuals, discussing and computing the various tax options related to property (including the computation of the adjusted cost bases and resulting gains and losses at the time of sale or other disposition), and special rules related to home ownership."
+    },
+    {
+      "Id": "25106",
+      "CourseId": "6823",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3230",
+        "Title": "Federal Income Taxes I"
+      },
+      "Number": "W04",
+      "Title": "Federal Income Taxes I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 11:30 AM - 12:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3230\" sect=\"W04\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course will cover: computing federal income taxes and determining and utilizing allowable credits, computing the overall tax result for a sole proprietorship business, determining the Alternative Minimum Tax for individuals, discussing and computing the various tax options related to property (including the computation of the adjusted cost bases and resulting gains and losses at the time of sale or other disposition), and special rules related to home ownership."
+    },
+    {
+      "Id": "25109",
+      "CourseId": "6823",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3230",
+        "Title": "Federal Income Taxes I"
+      },
+      "Number": "W07",
+      "Title": "Federal Income Taxes I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Monday, Wednesday 11:30 AM - 12:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3230\" sect=\"W07\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course will cover: computing federal income taxes and determining and utilizing allowable credits, computing the overall tax result for a sole proprietorship business, determining the Alternative Minimum Tax for individuals, discussing and computing the various tax options related to property (including the computation of the adjusted cost bases and resulting gains and losses at the time of sale or other disposition), and special rules related to home ownership."
+    },
+    {
+      "Id": "25104",
+      "CourseId": "6823",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3230",
+        "Title": "Federal Income Taxes I"
+      },
+      "Number": "W02",
+      "Title": "Federal Income Taxes I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Senran Zhou"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 10:00 AM - 11:15 AM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3230\" sect=\"W02\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course will cover: computing federal income taxes and determining and utilizing allowable credits, computing the overall tax result for a sole proprietorship business, determining the Alternative Minimum Tax for individuals, discussing and computing the various tax options related to property (including the computation of the adjusted cost bases and resulting gains and losses at the time of sale or other disposition), and special rules related to home ownership."
+    },
+    {
+      "Id": "25108",
+      "CourseId": "6823",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3230",
+        "Title": "Federal Income Taxes I"
+      },
+      "Number": "W06",
+      "Title": "Federal Income Taxes I",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 5:30 PM - 6:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "35 / 35 / 0",
+      "Available": 35,
+      "Capacity": 35,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT juniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3230\" sect=\"W06\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "This course will cover: computing federal income taxes and determining and utilizing allowable credits, computing the overall tax result for a sole proprietorship business, determining the Alternative Minimum Tax for individuals, discussing and computing the various tax options related to property (including the computation of the adjusted cost bases and resulting gains and losses at the time of sale or other disposition), and special rules related to home ownership."
+    },
+    {
+      "Id": "25116",
+      "CourseId": "6825",
+      "Course": {
+        "SubjectCode": "ACCT",
+        "Number": "3240",
+        "Title": "Cost Accounting"
+      },
+      "Number": "W07",
+      "Title": "Cost Accounting",
+      "TermDisplay": "Fall 2026 Wenzhou",
+      "LocationDisplay": "WENZHOU-KEAN UNIVERSITY",
+      "DatesDisplay": "8/31/2026-12/17/2026",
+      "CreditsDisplay": "3 Credits",
+      "FacultyDisplay": [
+        "Yuhang Zhu"
+      ],
+      "MeetingsDisplay": [
+        "Tuesday, Thursday 11:30 AM - 12:45 PM TBD (Lecture)"
+      ],
+      "AvailabilityStatusDisplay": "Open",
+      "AvailabilityDisplay": "30 / 30 / 0",
+      "Available": 30,
+      "Capacity": 30,
+      "Enrolled": 0,
+      "Waitlisted": 0,
+      "InstructionalMethodsDisplay": [
+        "Lecture"
+      ],
+      "Comments": "WENZHOU-KEAN STUDENTS ONLY. ACCT seniors only.",
+      "BookstoreUrl": "https://kean.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-732-_-1-_-A&catalogId=10001&storeId=24559&langId=-1&termMapping=Y&courseXml=<?xml version=\"1.0\" encoding=\"UTF-8\"?><textbookorder> <courses><course dept=\"ACCT\" num=\"3240\" sect=\"W07\" term=\"2026FAW\"/></courses></textbookorder>",
+      "CourseDescription": "Cost accounting introduces students to powerful tools and techniques used by accountants to determine the cost of providing a service as well as generating performance reports for management to perform their functions of planning, controlling and decision making. Students will develop an effective cost accounting system that provides information that is used for various purposes in different types of business entities. This course will place emphasis on developing various budgets, determining the cost of products and services, performing variance analysis, preparing performance reports and managing costs."
+    }
+  ],
+  "TotalItems": 1236,
+  "TotalPages": 42,
+  "CurrentPageIndex": 1,
+  "PageSize": 30,
+  "Subjects": [
+    {
+      "Value": "ESL",
+      "Description": "Eng As A Second Lang",
+      "Count": 132
+    },
+    {
+      "Value": "ENG",
+      "Description": "English",
+      "Count": 127
+    },
+    {
+      "Value": "CPS",
+      "Description": "Computer Science",
+      "Count": 113
+    },
+    {
+      "Value": "MATH",
+      "Description": "Mathematics",
+      "Count": 101
+    },
+    {
+      "Value": "GE",
+      "Description": "General Education",
+      "Count": 82
+    },
+    {
+      "Value": "ACCT",
+      "Description": "Accounting",
+      "Count": 62
+    },
+    {
+      "Value": "PSY",
+      "Description": "Psychology",
+      "Count": 55
+    },
+    {
+      "Value": "COMM",
+      "Description": "Communication",
+      "Count": 54
+    },
+    {
+      "Value": "MGS",
+      "Description": "Management",
+      "Count": 51
+    },
+    {
+      "Value": "FIN",
+      "Description": "Finance",
+      "Count": 47
+    },
+    {
+      "Value": "EDL",
+      "Description": "Educational Leadership",
+      "Count": 46
+    },
+    {
+      "Value": "BIO",
+      "Description": "Biology",
+      "Count": 37
+    },
+    {
+      "Value": "ECON",
+      "Description": "Economics",
+      "Count": 28
+    },
+    {
+      "Value": "ARCH",
+      "Description": "Architecture",
+      "Count": 25
+    },
+    {
+      "Value": "HIST",
+      "Description": "History",
+      "Count": 23
+    },
+    {
+      "Value": "TESL",
+      "Description": "Teaching Eng 2Nd Language",
+      "Count": 23
+    },
+    {
+      "Value": "CHEM",
+      "Description": "Chemistry",
+      "Count": 22
+    },
+    {
+      "Value": "GD",
+      "Description": "Graphic Design",
+      "Count": 19
+    },
+    {
+      "Value": "STME",
+      "Description": "Science Technology & Math Ed",
+      "Count": 19
+    },
+    {
+      "Value": "DSN",
+      "Description": "Design",
+      "Count": 17
+    },
+    {
+      "Value": "MKT",
+      "Description": "Marketing",
+      "Count": 15
+    },
+    {
+      "Value": "IND",
+      "Description": "Industrial Design",
+      "Count": 14
+    },
+    {
+      "Value": "PS",
+      "Description": "Political Science",
+      "Count": 14
+    },
+    {
+      "Value": "GMBA",
+      "Description": "Global MBA",
+      "Count": 12
+    },
+    {
+      "Value": "INTD",
+      "Description": "Interior Design",
+      "Count": 12
+    },
+    {
+      "Value": "PHIL",
+      "Description": "Philosophy",
+      "Count": 11
+    },
+    {
+      "Value": "BLAW",
+      "Description": "Business Law",
+      "Count": 10
+    },
+    {
+      "Value": "ENV",
+      "Description": "Environmental Science",
+      "Count": 9
+    },
+    {
+      "Value": "SPAN",
+      "Description": "Spanish",
+      "Count": 7
+    },
+    {
+      "Value": "BCHM",
+      "Description": "Biochemistry",
+      "Count": 6
+    },
+    {
+      "Value": "ES",
+      "Description": "Earth Science",
+      "Count": 6
+    },
+    {
+      "Value": "FREN",
+      "Description": "French",
+      "Count": 5
+    },
+    {
+      "Value": "PHYS",
+      "Description": "Physics",
+      "Count": 5
+    },
+    {
+      "Value": "GBUS",
+      "Description": "Global Business",
+      "Count": 4
+    },
+    {
+      "Value": "ID",
+      "Description": "Interdisciplinary",
+      "Count": 4
+    },
+    {
+      "Value": "AH",
+      "Description": "Art History",
+      "Count": 3
+    },
+    {
+      "Value": "REL",
+      "Description": "Religion",
+      "Count": 3
+    },
+    {
+      "Value": "SOC",
+      "Description": "Sociology",
+      "Count": 3
+    },
+    {
+      "Value": "SUST",
+      "Description": "Sustainability Science",
+      "Count": 3
+    },
+    {
+      "Value": "ANTH",
+      "Description": "Anthropology",
+      "Count": 2
+    },
+    {
+      "Value": "FA",
+      "Description": "Fine Arts",
+      "Count": 2
+    },
+    {
+      "Value": "TECH",
+      "Description": "Technology",
+      "Count": 2
+    },
+    {
+      "Value": "EMSE",
+      "Description": "Elementary,Middle & Secondary",
+      "Count": 1
+    }
+  ],
+  "Faculty": [
+    {
+      "Value": "1235157",
+      "Description": "Abaid Ullah Zafar",
+      "Count": 4
+    },
+    {
+      "Value": "1233025",
+      "Description": "Agata E. Wrochna",
+      "Count": 5
+    },
+    {
+      "Value": "1160518",
+      "Description": "Agnes Tang",
+      "Count": 1
+    },
+    {
+      "Value": "1233027",
+      "Description": "Aleksander Sedzielarz",
+      "Count": 4
+    },
+    {
+      "Value": "1235155",
+      "Description": "Alexander S. English",
+      "Count": 2
+    },
+    {
+      "Value": "1191249",
+      "Description": "Alfredo R. Oquendo",
+      "Count": 7
+    },
+    {
+      "Value": "1233046",
+      "Description": "Ali Bahadur",
+      "Count": 3
+    },
+    {
+      "Value": "1210233",
+      "Description": "Almuth Merkel",
+      "Count": 5
+    },
+    {
+      "Value": "1023837",
+      "Description": "Aloysius T. Wong",
+      "Count": 1
+    },
+    {
+      "Value": "1298783",
+      "Description": "Amin Jan",
+      "Count": 3
+    },
+    {
+      "Value": "1233521",
+      "Description": "Ammar Alshemary",
+      "Count": 3
+    },
+    {
+      "Value": "1161346",
+      "Description": "Amrita Kaur",
+      "Count": 1
+    },
+    {
+      "Value": "1191258",
+      "Description": "Andrea Gatto",
+      "Count": 3
+    },
+    {
+      "Value": "1298780",
+      "Description": "Artem Joukov",
+      "Count": 3
+    },
+    {
+      "Value": "1235158",
+      "Description": "Asen Velinov",
+      "Count": 5
+    },
+    {
+      "Value": "1298782",
+      "Description": "Ataullah Kiani",
+      "Count": 3
+    },
+    {
+      "Value": "1160565",
+      "Description": "Baha Ihnaini",
+      "Count": 1
+    },
+    {
+      "Value": "1193380",
+      "Description": "Belal S. Abuhaija",
+      "Count": 2
+    },
+    {
+      "Value": "1169867",
+      "Description": "Cagri B. Onuk",
+      "Count": 3
+    },
+    {
+      "Value": "1061107",
+      "Description": "Candy L. Chiu",
+      "Count": 4
+    },
+    {
+      "Value": "1336879",
+      "Description": "Caroline J. Handley",
+      "Count": 4
+    },
+    {
+      "Value": "0986661",
+      "Description": "Chak Kin Jeff Poon",
+      "Count": 3
+    },
+    {
+      "Value": "1336886",
+      "Description": "Chang Liu",
+      "Count": 4
+    },
+    {
+      "Value": "1335563",
+      "Description": "Changjiang Zhang",
+      "Count": 2
+    },
+    {
+      "Value": "1233518",
+      "Description": "Chee Seng Tan",
+      "Count": 4
+    },
+    {
+      "Value": "1247823",
+      "Description": "Chen Ray-Ming",
+      "Count": 4
+    },
+    {
+      "Value": "1336888",
+      "Description": "Chi Kuen Angela Chan",
+      "Count": 1
+    },
+    {
+      "Value": "1210225",
+      "Description": "Christopher Binstead",
+      "Count": 3
+    },
+    {
+      "Value": "1160519",
+      "Description": "Chungil Chae",
+      "Count": 4
+    },
+    {
+      "Value": "1196215",
+      "Description": "Chunjuan Wei",
+      "Count": 3
+    },
+    {
+      "Value": "1130478",
+      "Description": "Chunxiao Xue",
+      "Count": 3
+    },
+    {
+      "Value": "1094939",
+      "Description": "Craig Blacklock",
+      "Count": 5
+    },
+    {
+      "Value": "1304514",
+      "Description": "Daein Cheong",
+      "Count": 2
+    },
+    {
+      "Value": "1298776",
+      "Description": "Daniel Burton-Rose",
+      "Count": 1
+    },
+    {
+      "Value": "1235161",
+      "Description": "Daniel Given",
+      "Count": 4
+    },
+    {
+      "Value": "1335483",
+      "Description": "Daniel Manning",
+      "Count": 6
+    },
+    {
+      "Value": "1169863",
+      "Description": "Darryl Brock",
+      "Count": 5
+    },
+    {
+      "Value": "1193377",
+      "Description": "David Vardy",
+      "Count": 2
+    },
+    {
+      "Value": "1364859",
+      "Description": "Dawei Chen",
+      "Count": 2
+    },
+    {
+      "Value": "1335558",
+      "Description": "Donghoon Lee",
+      "Count": 7
+    },
+    {
+      "Value": "0871606",
+      "Description": "Dr. Jennifer A. Marquardt",
+      "Count": 2
+    },
+    {
+      "Value": "1193657",
+      "Description": "Ebenezer F. Atta Mills",
+      "Count": 1
+    },
+    {
+      "Value": "1365518",
+      "Description": "Ekaterina Chelpanova",
+      "Count": 5
+    },
+    {
+      "Value": "1128445",
+      "Description": "Elizabeth S. Martinez",
+      "Count": 5
+    },
+    {
+      "Value": "1364848",
+      "Description": "Elliott Schwebach",
+      "Count": 4
+    },
+    {
+      "Value": "1233048",
+      "Description": "Emanuel Guariglia",
+      "Count": 1
+    },
+    {
+      "Value": "1191304",
+      "Description": "Eva M. Gacasan",
+      "Count": 6
+    },
+    {
+      "Value": "0986700",
+      "Description": "Fa Hsiang Chang",
+      "Count": 2
+    },
+    {
+      "Value": "1335489",
+      "Description": "Fangyi Yin",
+      "Count": 2
+    },
+    {
+      "Value": "1365517",
+      "Description": "Fanling Cheng",
+      "Count": 3
+    },
+    {
+      "Value": "1364844",
+      "Description": "Feng Li",
+      "Count": 6
+    },
+    {
+      "Value": "1097372",
+      "Description": "Ferney Manrique Aragon",
+      "Count": 4
+    },
+    {
+      "Value": "1233054",
+      "Description": "Fiza R. Shaikh",
+      "Count": 4
+    },
+    {
+      "Value": "1298786",
+      "Description": "Fouzia Atlas",
+      "Count": 5
+    },
+    {
+      "Value": "1335487",
+      "Description": "Galang Lufityanto",
+      "Count": 4
+    },
+    {
+      "Value": "0988836",
+      "Description": "Garry Gray",
+      "Count": 6
+    },
+    {
+      "Value": "1064673",
+      "Description": "Gaurav Gupta",
+      "Count": 4
+    },
+    {
+      "Value": "1158826",
+      "Description": "Graham McKay",
+      "Count": 2
+    },
+    {
+      "Value": "1298804",
+      "Description": "Guanchao Tong",
+      "Count": 4
+    },
+    {
+      "Value": "1299980",
+      "Description": "Hamza Djigal",
+      "Count": 1
+    },
+    {
+      "Value": "1235163",
+      "Description": "Han Xiao",
+      "Count": 4
+    },
+    {
+      "Value": "1023899",
+      "Description": "Han-Chiang Ho",
+      "Count": 4
+    },
+    {
+      "Value": "1364854",
+      "Description": "Haoyi Yang",
+      "Count": 3
+    },
+    {
+      "Value": "1128377",
+      "Description": "Hari R. Adhikari",
+      "Count": 3
+    },
+    {
+      "Value": "1364862",
+      "Description": "Harold Neely",
+      "Count": 3
+    },
+    {
+      "Value": "1136497",
+      "Description": "Hemn B. Abdalla",
+      "Count": 2
+    },
+    {
+      "Value": "1304510",
+      "Description": "Heriberto Velez",
+      "Count": 4
+    },
+    {
+      "Value": "1335488",
+      "Description": "Hitoshi Iwashita",
+      "Count": 3
+    },
+    {
+      "Value": "1196182",
+      "Description": "Hongyu Xu",
+      "Count": 3
+    },
+    {
+      "Value": "1192768",
+      "Description": "Hooisan Noew",
+      "Count": 6
+    },
+    {
+      "Value": "1128442",
+      "Description": "Ian Baecht",
+      "Count": 6
+    },
+    {
+      "Value": "1336880",
+      "Description": "Ian D. Mauer",
+      "Count": 3
+    },
+    {
+      "Value": "1233026",
+      "Description": "Imran Khan",
+      "Count": 6
+    },
+    {
+      "Value": "1161467",
+      "Description": "Jahirul Mullick",
+      "Count": 4
+    },
+    {
+      "Value": "1062379",
+      "Description": "James A. Tarwood",
+      "Count": 5
+    },
+    {
+      "Value": "1235152",
+      "Description": "James McDougall",
+      "Count": 2
+    },
+    {
+      "Value": "1235153",
+      "Description": "James O'Sullivan",
+      "Count": 3
+    },
+    {
+      "Value": "1298789",
+      "Description": "Jason Homer",
+      "Count": 3
+    },
+    {
+      "Value": "1128447",
+      "Description": "Jianing Zhang",
+      "Count": 3
+    },
+    {
+      "Value": "1335491",
+      "Description": "Jiaying Ge",
+      "Count": 3
+    },
+    {
+      "Value": "1061211",
+      "Description": "Jing Ma",
+      "Count": 3
+    },
+    {
+      "Value": "1210229",
+      "Description": "Jingjing Xia",
+      "Count": 3
+    },
+    {
+      "Value": "1364847",
+      "Description": "Jingni Ma",
+      "Count": 3
+    },
+    {
+      "Value": "1128438",
+      "Description": "Joaquin Lopez Mugica",
+      "Count": 7
+    },
+    {
+      "Value": "1323519",
+      "Description": "Joseph Markowski",
+      "Count": 5
+    },
+    {
+      "Value": "1196575",
+      "Description": "Jue Yu",
+      "Count": 2
+    },
+    {
+      "Value": "1233505",
+      "Description": "Juma Kasadha",
+      "Count": 5
+    },
+    {
+      "Value": "1299978",
+      "Description": "Jungbin Kim",
+      "Count": 2
+    },
+    {
+      "Value": "1233056",
+      "Description": "Junjian Gao",
+      "Count": 5
+    },
+    {
+      "Value": "1304508",
+      "Description": "Justin N. McKibben",
+      "Count": 3
+    },
+    {
+      "Value": "1364871",
+      "Description": "Justin Patrick",
+      "Count": 5
+    },
+    {
+      "Value": "1335494",
+      "Description": "Kangkang Fu",
+      "Count": 3
+    },
+    {
+      "Value": "1233040",
+      "Description": "Kashif Ullah Khan",
+      "Count": 3
+    },
+    {
+      "Value": "1210223",
+      "Description": "Katherine Hennessey",
+      "Count": 2
+    },
+    {
+      "Value": "1233029",
+      "Description": "Kevin G. Spencer",
+      "Count": 3
+    },
+    {
+      "Value": "1162735",
+      "Description": "Kristen Hartman",
+      "Count": 2
+    },
+    {
+      "Value": "1169866",
+      "Description": "Kunsu Park",
+      "Count": 4
+    },
+    {
+      "Value": "1128443",
+      "Description": "Kwami H. Quao",
+      "Count": 6
+    },
+    {
+      "Value": "1364865",
+      "Description": "Lale Asik",
+      "Count": 1
+    },
+    {
+      "Value": "1023879",
+      "Description": "Leah Li V. Echiverri",
+      "Count": 5
+    },
+    {
+      "Value": "1313290",
+      "Description": "Leonard Lipovich",
+      "Count": 1
+    },
+    {
+      "Value": "1364864",
+      "Description": "Leonardo Andres Poveda Cuevas",
+      "Count": 3
+    },
+    {
+      "Value": "1364843",
+      "Description": "Lijun Luo",
+      "Count": 6
+    },
+    {
+      "Value": "1237083",
+      "Description": "Lingling Deng",
+      "Count": 5
+    },
+    {
+      "Value": "1027284",
+      "Description": "Linnea N. Moore",
+      "Count": 2
+    },
+    {
+      "Value": "1335564",
+      "Description": "Lisa P. Brown",
+      "Count": 4
+    },
+    {
+      "Value": "1193381",
+      "Description": "Liviu Mateescu",
+      "Count": 2
+    },
+    {
+      "Value": "1358781",
+      "Description": "Logan Butterfield",
+      "Count": 3
+    },
+    {
+      "Value": "1365520",
+      "Description": "Long Niu",
+      "Count": 3
+    },
+    {
+      "Value": "1348099",
+      "Description": "Long Qian",
+      "Count": 3
+    },
+    {
+      "Value": "1592830",
+      "Description": "Lucien Monson",
+      "Count": 3
+    },
+    {
+      "Value": "1233049",
+      "Description": "Man Kwun Chiu",
+      "Count": 2
+    },
+    {
+      "Value": "1233032",
+      "Description": "Mark R. Alexander-Warne",
+      "Count": 6
+    },
+    {
+      "Value": "1298794",
+      "Description": "Marko Stamenkovic",
+      "Count": 1
+    },
+    {
+      "Value": "1233051",
+      "Description": "Maryam Cheraghy",
+      "Count": 3
+    },
+    {
+      "Value": "1128433",
+      "Description": "Matthew Wood",
+      "Count": 4
+    },
+    {
+      "Value": "1158827",
+      "Description": "Maurizio Vrenna",
+      "Count": 3
+    },
+    {
+      "Value": "1023901",
+      "Description": "Md Jahidur Rahman",
+      "Count": 3
+    },
+    {
+      "Value": "1128428",
+      "Description": "Meng'kok Tan",
+      "Count": 4
+    },
+    {
+      "Value": "1364857",
+      "Description": "Michael Ryan",
+      "Count": 5
+    },
+    {
+      "Value": "1064615",
+      "Description": "Michael Watkins",
+      "Count": 3
+    },
+    {
+      "Value": "1233057",
+      "Description": "Midya Yousefi",
+      "Count": 5
+    },
+    {
+      "Value": "1128420",
+      "Description": "Mieke Paulsen Bahmer",
+      "Count": 2
+    },
+    {
+      "Value": "1304505",
+      "Description": "Mohammed Z. Akter",
+      "Count": 5
+    },
+    {
+      "Value": "1299979",
+      "Description": "Mojtaba Tabandeh",
+      "Count": 7
+    },
+    {
+      "Value": "1335485",
+      "Description": "Monica E. Carr",
+      "Count": 4
+    },
+    {
+      "Value": "1195740",
+      "Description": "Moonkyoung Cho",
+      "Count": 2
+    },
+    {
+      "Value": "1364849",
+      "Description": "Moritz Mihatsch",
+      "Count": 3
+    },
+    {
+      "Value": "1114988",
+      "Description": "Mr. Evan S. Saarinen",
+      "Count": 4
+    },
+    {
+      "Value": "1365655",
+      "Description": "Naeem Iqbal",
+      "Count": 2
+    },
+    {
+      "Value": "1222930",
+      "Description": "Nasrine Seraji",
+      "Count": 1
+    },
+    {
+      "Value": "1173242",
+      "Description": "Nasser M. Mustafa",
+      "Count": 3
+    },
+    {
+      "Value": "1128412",
+      "Description": "Natalie Houston",
+      "Count": 4
+    },
+    {
+      "Value": "1210226",
+      "Description": "Natasha Jardine-Binstead",
+      "Count": 4
+    },
+    {
+      "Value": "1233033",
+      "Description": "Nathan J. Workman",
+      "Count": 3
+    },
+    {
+      "Value": "1233034",
+      "Description": "Nathan Y. Lee",
+      "Count": 3
+    },
+    {
+      "Value": "1233516",
+      "Description": "Naznine Anwar",
+      "Count": 5
+    },
+    {
+      "Value": "1195738",
+      "Description": "Nirisa D Y Kristiana",
+      "Count": 5
+    },
+    {
+      "Value": "1160567",
+      "Description": "Noman Mohammad",
+      "Count": 4
+    },
+    {
+      "Value": "1322908",
+      "Description": "Noorchaya Yahya",
+      "Count": 3
+    },
+    {
+      "Value": "1364846",
+      "Description": "Norman Williams",
+      "Count": 3
+    },
+    {
+      "Value": "1136499",
+      "Description": "Omar K. Dib",
+      "Count": 3
+    },
+    {
+      "Value": "1304518",
+      "Description": "Omid Kalantar Motamedi",
+      "Count": 4
+    },
+    {
+      "Value": "1196179",
+      "Description": "Onome R. Isiorho",
+      "Count": 3
+    },
+    {
+      "Value": "1304507",
+      "Description": "Paul Kimm",
+      "Count": 3
+    },
+    {
+      "Value": "1364866",
+      "Description": "Peiyao Lai",
+      "Count": 5
+    },
+    {
+      "Value": "1233043",
+      "Description": "Percy D. Akuetteh",
+      "Count": 2
+    },
+    {
+      "Value": "1335565",
+      "Description": "Peta Carlin",
+      "Count": 3
+    },
+    {
+      "Value": "1196180",
+      "Description": "Po-Yu Wei",
+      "Count": 3
+    },
+    {
+      "Value": "1158825",
+      "Description": "Puneet Rana",
+      "Count": 2
+    },
+    {
+      "Value": "1161918",
+      "Description": "Qian Li",
+      "Count": 7
+    },
+    {
+      "Value": "1335497",
+      "Description": "Qing Dai",
+      "Count": 3
+    },
+    {
+      "Value": "1335560",
+      "Description": "Qing Xia",
+      "Count": 1
+    },
+    {
+      "Value": "1304516",
+      "Description": "Qixin Chen",
+      "Count": 4
+    },
+    {
+      "Value": "1364851",
+      "Description": "Ran An",
+      "Count": 3
+    },
+    {
+      "Value": "1233050",
+      "Description": "Rashid Sangi",
+      "Count": 3
+    },
+    {
+      "Value": "1233511",
+      "Description": "Robert Burton",
+      "Count": 5
+    },
+    {
+      "Value": "1060938",
+      "Description": "Robert K. Marjerison",
+      "Count": 4
+    },
+    {
+      "Value": "1324338",
+      "Description": "Robert M. Przybylski",
+      "Count": 6
+    },
+    {
+      "Value": "1336878",
+      "Description": "Robyn Carruthers",
+      "Count": 3
+    },
+    {
+      "Value": "0988361",
+      "Description": "Rongjuan Chen",
+      "Count": 3
+    },
+    {
+      "Value": "1160516",
+      "Description": "Rosalie Palaroan",
+      "Count": 9
+    },
+    {
+      "Value": "1350524",
+      "Description": "Ruth Gomes Sobrino",
+      "Count": 6
+    },
+    {
+      "Value": "1309865",
+      "Description": "Ryan G. Hornbeck",
+      "Count": 3
+    },
+    {
+      "Value": "1298798",
+      "Description": "Saad Andalib Syed Shah",
+      "Count": 3
+    },
+    {
+      "Value": "1298807",
+      "Description": "Saheed Adebayo",
+      "Count": 4
+    },
+    {
+      "Value": "1233194",
+      "Description": "Samuel K. Gan",
+      "Count": 2
+    },
+    {
+      "Value": "1335481",
+      "Description": "Sandra Bruce",
+      "Count": 6
+    },
+    {
+      "Value": "1335484",
+      "Description": "Sarah L. Atkinson",
+      "Count": 6
+    },
+    {
+      "Value": "1364852",
+      "Description": "Senran Zhou",
+      "Count": 5
+    },
+    {
+      "Value": "1298778",
+      "Description": "Shaoshuang Wen",
+      "Count": 4
+    },
+    {
+      "Value": "1235162",
+      "Description": "Shauheng Li",
+      "Count": 4
+    },
+    {
+      "Value": "1210231",
+      "Description": "Shaun McDowell",
+      "Count": 3
+    },
+    {
+      "Value": "1298800",
+      "Description": "Shiwen Gao",
+      "Count": 2
+    },
+    {
+      "Value": "1298785",
+      "Description": "Shiyuan Liu",
+      "Count": 3
+    },
+    {
+      "Value": "1365583",
+      "Description": "Shubin Zhang",
+      "Count": 1
+    },
+    {
+      "Value": "1023979",
+      "Description": "Somkiat Mansumitrchai",
+      "Count": 4
+    },
+    {
+      "Value": "1298792",
+      "Description": "Steven Conroy",
+      "Count": 6
+    },
+    {
+      "Value": "1099594",
+      "Description": "Steven Harris",
+      "Count": 5
+    },
+    {
+      "Value": "1097370",
+      "Description": "Sujatha Krishnamoorthy",
+      "Count": 3
+    },
+    {
+      "Value": "0988537",
+      "Description": "Susan E. Masterson",
+      "Count": 5
+    },
+    {
+      "Value": "1304511",
+      "Description": "Susan Rutherford",
+      "Count": 1
+    },
+    {
+      "Value": "1062381",
+      "Description": "Svetlana Vikhnevich",
+      "Count": 5
+    },
+    {
+      "Value": "1298784",
+      "Description": "Taiyu Li",
+      "Count": 3
+    },
+    {
+      "Value": "1247828",
+      "Description": "Teow Sin-Yeang",
+      "Count": 3
+    },
+    {
+      "Value": "1233519",
+      "Description": "Thomas D. Kennedy",
+      "Count": 7
+    },
+    {
+      "Value": "1298787",
+      "Description": "Timothy Klein",
+      "Count": 5
+    },
+    {
+      "Value": "1210227",
+      "Description": "Tristan Currie",
+      "Count": 6
+    },
+    {
+      "Value": "1298796",
+      "Description": "Vincent Chee",
+      "Count": 3
+    },
+    {
+      "Value": "1335482",
+      "Description": "Vinita C. Jacob",
+      "Count": 5
+    },
+    {
+      "Value": "1298793",
+      "Description": "Vittorio Felci",
+      "Count": 4
+    },
+    {
+      "Value": "1191303",
+      "Description": "Wadia Rabhi",
+      "Count": 3
+    },
+    {
+      "Value": "1210232",
+      "Description": "Wajahat Ali",
+      "Count": 5
+    },
+    {
+      "Value": "1247825",
+      "Description": "Wang Bin",
+      "Count": 2
+    },
+    {
+      "Value": "1192769",
+      "Description": "Wei Chen",
+      "Count": 3
+    },
+    {
+      "Value": "1364861",
+      "Description": "Wei Lin",
+      "Count": 3
+    },
+    {
+      "Value": "1364858",
+      "Description": "Xiaohu Qiao",
+      "Count": 4
+    },
+    {
+      "Value": "1306548",
+      "Description": "Xiaoqian Yu",
+      "Count": 6
+    },
+    {
+      "Value": "1323520",
+      "Description": "Xin Wang",
+      "Count": 2
+    },
+    {
+      "Value": "1298799",
+      "Description": "Xingjian Zhang",
+      "Count": 3
+    },
+    {
+      "Value": "1365521",
+      "Description": "Xinyu Zhu",
+      "Count": 2
+    },
+    {
+      "Value": "1336884",
+      "Description": "Yang Long",
+      "Count": 1
+    },
+    {
+      "Value": "1364850",
+      "Description": "Yanhua Dong",
+      "Count": 3
+    },
+    {
+      "Value": "1233509",
+      "Description": "Yanmin Yu",
+      "Count": 7
+    },
+    {
+      "Value": "1026646",
+      "Description": "Yaoyao Huang",
+      "Count": 2
+    },
+    {
+      "Value": "1364856",
+      "Description": "Yauhang Wai",
+      "Count": 4
+    },
+    {
+      "Value": "1191253",
+      "Description": "Yifei Xia",
+      "Count": 3
+    },
+    {
+      "Value": "1592831",
+      "Description": "Yige Chen",
+      "Count": 1
+    },
+    {
+      "Value": "1365582",
+      "Description": "Yinan Lin",
+      "Count": 5
+    },
+    {
+      "Value": "1138162",
+      "Description": "Ying Liu",
+      "Count": 3
+    },
+    {
+      "Value": "1335479",
+      "Description": "Ying Shin Chin",
+      "Count": 7
+    },
+    {
+      "Value": "1132166",
+      "Description": "Yingying Jin",
+      "Count": 5
+    },
+    {
+      "Value": "1192772",
+      "Description": "Yinxuan Zhou",
+      "Count": 4
+    },
+    {
+      "Value": "1304517",
+      "Description": "Youlim Kim",
+      "Count": 6
+    },
+    {
+      "Value": "1193660",
+      "Description": "Yuanbo Jiang",
+      "Count": 4
+    },
+    {
+      "Value": "1322910",
+      "Description": "Yue Zhao",
+      "Count": 2
+    },
+    {
+      "Value": "1335490",
+      "Description": "Yuehua Li",
+      "Count": 3
+    },
+    {
+      "Value": "1364853",
+      "Description": "Yuhang Zhu",
+      "Count": 5
+    },
+    {
+      "Value": "1335493",
+      "Description": "Yujie Song",
+      "Count": 3
+    },
+    {
+      "Value": "1364874",
+      "Description": "Yuliang Wang",
+      "Count": 1
+    },
+    {
+      "Value": "1335492",
+      "Description": "Yun Ma",
+      "Count": 3
+    },
+    {
+      "Value": "1364872",
+      "Description": "Yun Yue",
+      "Count": 5
+    },
+    {
+      "Value": "1233035",
+      "Description": "Yunfei Zhao",
+      "Count": 3
+    },
+    {
+      "Value": "1159317",
+      "Description": "Yunqi Zhao",
+      "Count": 1
+    },
+    {
+      "Value": "1233037",
+      "Description": "Yuqi Han",
+      "Count": 3
+    },
+    {
+      "Value": "1233045",
+      "Description": "Yusef Kianpoor Kalkhajeh",
+      "Count": 2
+    },
+    {
+      "Value": "1193374",
+      "Description": "Zachary Waber",
+      "Count": 6
+    },
+    {
+      "Value": "1368136",
+      "Description": "Zhenzhou Tang",
+      "Count": 1
+    },
+    {
+      "Value": "1335561",
+      "Description": "Zhiqiang Gao",
+      "Count": 2
+    },
+    {
+      "Value": "1304506",
+      "Description": "Zoe E. Robson",
+      "Count": 7
+    }
+  ],
+  "Locations": [
+    {
+      "Value": "W",
+      "Description": "WENZHOU-KEAN UNIVERSITY",
+      "Count": 1236
+    }
+  ],
+  "_fetched_at": "2026-05-10T10:03:09.852549+00:00"
+}
