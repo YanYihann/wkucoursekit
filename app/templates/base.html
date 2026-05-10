@@ -32,12 +32,16 @@
             </form>
           </div>
         {% else %}
-          <form method="post" action="/auth/refresh" class="nav-auth-form">
-            <input type="hidden" name="next_url" value="{{ current_path }}">
-            <button class="nav-auth-button" type="submit" {% if auth.running %}disabled{% endif %}>
-              {{ "Syncing" if auth.running and lang == "en" else ("同步中" if auth.running else ("Sign In" if lang == "en" else "登录")) }}
-            </button>
-          </form>
+          {% if auth.cloud_sync %}
+            <a class="nav-auth-button" href="{{ official_links.my_courses }}" target="_blank" rel="noopener noreferrer">{{ "Sign In" if lang == "en" else "登录" }}</a>
+          {% else %}
+            <form method="post" action="/auth/refresh" class="nav-auth-form">
+              <input type="hidden" name="next_url" value="{{ current_path }}">
+              <button class="nav-auth-button" type="submit" {% if auth.running %}disabled{% endif %}>
+                {{ "Syncing" if auth.running and lang == "en" else ("同步中" if auth.running else ("Sign In" if lang == "en" else "登录")) }}
+              </button>
+            </form>
+          {% endif %}
         {% endif %}
         <div class="language-switch" aria-label="Language">
           <a href="{{ switch_lang_url('en') }}" class="{{ 'active' if lang == 'en' else '' }}" hreflang="en">EN</a>

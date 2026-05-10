@@ -257,6 +257,7 @@ def test_render_courses_page_shows_cloud_sync_bookmarklet(monkeypatch) -> None:
     assert "Cloud sync" in response.text
     assert "javascript:(async()" in response.text
     assert "/api/simple-syllabus/import-responses" in response.text
+    assert 'href="https://kean.simplesyllabus.com/en-US/syllabus-library/my-courses" target="_blank"' in response.text
 
 
 def test_browser_submitted_simple_syllabus_json_imports_courses() -> None:

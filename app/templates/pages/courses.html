@@ -8,12 +8,16 @@
     <h1 id="page-title">{{ page_title }}</h1>
     <p class="lede">{{ "查找已选课程，查看课程材料，并打开可打印的课程材料包。" if lang == "zh" else "Find enrolled courses, review materials, and open print-ready course packets." }}</p>
   </div>
-  <form method="post" action="/auth/refresh" class="page-refresh-form">
-    <input type="hidden" name="next_url" value="{{ current_path }}">
-    <button class="button-secondary" type="submit" {% if auth.running %}disabled{% endif %}>
-      {{ "Refreshing" if auth.running and lang == "en" else ("刷新中" if auth.running else t("actions.refresh")) }}
-    </button>
-  </form>
+  {% if auth.cloud_sync %}
+    <a class="button-secondary" href="{{ official_links.my_courses }}" target="_blank" rel="noopener noreferrer">{{ "Sign In" if lang == "en" else "登录" }}</a>
+  {% else %}
+    <form method="post" action="/auth/refresh" class="page-refresh-form">
+      <input type="hidden" name="next_url" value="{{ current_path }}">
+      <button class="button-secondary" type="submit" {% if auth.running %}disabled{% endif %}>
+        {{ "Refreshing" if auth.running and lang == "en" else ("刷新中" if auth.running else t("actions.refresh")) }}
+      </button>
+    </form>
+  {% endif %}
 </section>
 
 {% if auth.cloud_sync %}
