@@ -1,175 +1,83 @@
+<div align="center">
+
 # WKUCourseKit
 
-WKUCourseKit is a local Python web application for CPS 3320 Final Project. It helps WKU/Kean students organize enrolled courses, syllabus information, required and optional materials, ISBN records, and print-friendly course packets.
+A local syllabus and course-material organizer for WKU/Kean students.
 
-The project runs entirely on the local computer. No external hosting is required.
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-local%20web%20app-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Status](https://img.shields.io/badge/status-coursework-blue)](#scope-and-data)
 
-## Project Description
+</div>
 
-The application provides five main pages:
+## Overview
 
-- **My Courses**: shows enrolled courses with search, term filter, subject filter, material count, and print action.
-- **Syllabus Library**: searches all course records by course code, title, instructor, term, subject, and material availability.
-- **Course Detail / Syllabus Reader**: displays course metadata, instructor information, syllabus sections, grading, schedule, policies, and materials.
-- **Materials**: lists required and optional materials with ISBN values, student status, and source links.
-- **Print Center**: creates print-friendly syllabus packets and material checklists.
+WKUCourseKit is a CPS 3320 final project that organizes enrolled courses, syllabus sections, required and optional materials, ISBN records, and print-friendly course packets. It runs locally and ships with a repeatable demonstration dataset.
 
-The project is Python-first. FastAPI handles routes, SQLAlchemy manages the SQLite database, Jinja2 builds the HTML pages, and Python service modules handle data import, search, filters, material grouping, and optional Simple Syllabus synchronization.
+## Features
 
-For a repeatable final-project demo, the submission includes a local JSON dataset. The app also includes an optional browser-assisted Simple Syllabus import/scraping flow: the student signs in directly on the official Kean Simple Syllabus website, and the local app can import authorized course and syllabus records into SQLite. The app does not store Kean passwords.
+- Searchable and filterable **My Courses** view
+- Syllabus library and detailed syllabus reader
+- Required/optional material checklist with ISBN and source links
+- Print center for syllabus packets and material lists
+- SQLite database seeded from included JSON
+- Optional browser-assisted import from Kean Simple Syllabus after the student signs in directly
 
-## Installation Instructions
+## Quick start
 
-After extracting the zip file, open Windows PowerShell in:
-
-```text
-Code
-```
-
-Then run:
+Open PowerShell in the repository's `Code` directory:
 
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
-```
-
-Required libraries are listed in `requirements.txt`:
-
-- FastAPI
-- Uvicorn
-- Jinja2
-- SQLAlchemy
-- Pydantic
-- httpx
-- python-multipart
-- Playwright
-
-The Playwright dependency supports the optional local Simple Syllabus browser import. The included dataset does not require using that optional flow.
-
-## How To Run The Code
-
-Open Windows PowerShell in the `Code` folder. First load the included dataset into the local SQLite database:
-
-```powershell
 python scripts\seed_db.py
-```
-
-Then start the local web server:
-
-```powershell
 uvicorn app.main:app --reload
 ```
 
-Open this address in a browser:
+Visit `http://127.0.0.1:8000`.
 
-```text
-http://127.0.0.1:8000
-```
+Useful routes: `/courses`, `/library`, `/materials`, `/print`, and `/health`.
 
-Useful routes:
-
-- `http://127.0.0.1:8000/courses`
-- `http://127.0.0.1:8000/library`
-- `http://127.0.0.1:8000/materials`
-- `http://127.0.0.1:8000/print`
-- `http://127.0.0.1:8000/health`
-
-To stop the server, press `Ctrl+C` in the terminal.
-
-Optional Simple Syllabus import:
+## Optional syllabus import
 
 ```powershell
 python -m playwright install chromium
 python scripts\sync_simple_syllabus.py
 ```
 
-This opens a local browser session for Kean Simple Syllabus login. After the student signs in through Kean, the script imports available authorized syllabus data into the same local SQLite database. This step is optional; the project works with `python scripts\seed_db.py`.
+The script opens a local browser so the student can sign in on the official site. The application should not receive or store the student's Kean password.
 
-## Dataset Usage Explained
+## Architecture
 
-The dataset is included in the submission in two places:
+```mermaid
+flowchart LR
+  B[Browser] --> F[FastAPI routes]
+  F --> J[Jinja2 templates]
+  F --> S[Python services]
+  S --> Q[(SQLite)]
+  D[Included JSON dataset] --> S
+  P[Optional Playwright import] --> S
+```
+
+## Included artifacts
 
 ```text
-Code/data/mock_syllabus.json
-Dataset/data/mock_syllabus.json
+Code/                  Application and runtime dataset
+Dataset/               Dataset copy and documentation
+Results/               Screenshots and result summary
+Report PDF/            Final report
+Presentation Slides/   Final presentation
+README/                Submission copy of the README
 ```
 
-The copy inside `Code` is used by `scripts\seed_db.py` when running the program. The copy inside `Dataset` is included to make the dataset section easy to find for grading. It is a Simple Syllabus-style dataset for demonstration. It does not contain real student passwords, private Kean credentials, or copyrighted textbook files.
+## Scope and data
 
-The seed script:
+The included dataset is for demonstration and contains no private student credentials or textbook files. The optional import must only access records the signed-in student is authorized to view. Before broader use, add tests, explicit retention rules, access controls, and a review of institutional data policies.
 
-```powershell
-python scripts\seed_db.py
-```
+## License
 
-loads the JSON data into a local SQLite database and creates:
+No license file is currently included.
 
-- 2 terms
-- 8 instructors
-- 8 courses
-- 8 syllabi
-- 21 syllabus sections
-- 7 materials
-- 8 course-material links
-- 7 student material statuses
 
-The website then reads this database and displays the information through the course list, syllabus library, course detail, materials, and print pages. If the optional Simple Syllabus import is used, imported records are stored in the same local SQLite database and shown through the same pages.
-
-More dataset details are in:
-
-```text
-Dataset/docs/DATASET.md
-```
-
-## Output Explanation
-
-The project output is the local website plus the included final artifacts.
-
-Main website outputs:
-
-- `/courses`: enrolled course table with filters and print selection.
-- `/library`: searchable syllabus library.
-- `/courses/{course_id}`: detailed syllabus reader for one course.
-- `/materials`: material checklist with ISBN and source links.
-- `/print`: print-friendly syllabus packet and material checklist.
-- `/health`: confirms the app and database are working.
-
-Included result files:
-
-- `Results/output/results/01_my_courses.png`
-- `Results/output/results/02_syllabus_library.png`
-- `Results/output/results/03_course_detail.png`
-- `Results/output/results/04_materials.png`
-- `Results/output/results/05_print_center.png`
-
-Included final documents:
-
-- `Report PDF/output/report/WKUCourseKit_Final_Report.pdf`
-- `Presentation Slides/output/presentation/WKUCourseKit_Final_Presentation.pptx`
-- `Results/docs/RESULTS.md`
-
-## Project Structure
-
-```text
-Code/app/                         FastAPI application code
-Code/app/main.py                  Main application entry point
-Code/app/routes/                  Page routes
-Code/app/services/                Python service functions
-Code/app/templates/               Jinja2 HTML templates
-Code/app/static/css/styles.css    Main stylesheet
-Code/data/mock_syllabus.json      Runtime dataset copy
-Code/scripts/seed_db.py           Loads the dataset into SQLite
-Code/scripts/sync_simple_syllabus.py Optional local Simple Syllabus browser import
-Code/requirements.txt             Python dependencies
-Dataset/                          Dataset file and dataset description
-Results/                          Screenshots and result summary
-Report PDF/                       Final PDF report
-Presentation Slides/              PowerPoint presentation
-README/                           This README file
-```
-
-## Notes
-
-This submission is designed for local execution. After extracting the zip file, open the `Code` folder, install dependencies, run the seed script, start Uvicorn, and open `http://127.0.0.1:8000`.
